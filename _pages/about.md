@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-我是杨圣涛，目前在[南京信息工程大学](https://www.nuist.edu.cn/)[自动化学院](https://auto.nuist.edu.cn/main.htm)攻读电气工程及其自动化学士学位。
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+我是杨圣涛，目前在[南京信息工程大学](https://www.nuist.edu.cn/)[自动化学院](https://auto.nuist.edu.cn/main.htm)攻读电气工程及其自动化学士学位。获2025年全国大学生电子设计竞赛A题[全国二等奖](https://res.nuedc-training.com.cn/s/pdf/2025/08/29/file202508297880.pdf)，其他学科类竞赛8项。参与无线电能传输领域的研究（导师：[连静](https://faculty.nuist.edu.cn/lianjing/zh_CN/index.htm)），投稿Electronics(JCRQ2, IF=2.6)一作论文一篇（Under Review）。公开电能质量领域发明专利一件（第三作者）。主持大学生创新创业训练项目两项。担任自动化学院科学技术协会主席。获校三好学生、一等奖学金、优秀学生干部、年度先进个人等荣誉。
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+自大二以来参与电力电子方向的学习与实践。设计并制作包括Boost,Buck,Buck-Boost,单相/三相全桥逆变、整流，PFC等在内的电源模块，基于DSP部署相关控制算法（包括电流电压双闭环、下垂、主从、SOGI锁相环等）。能够使用嘉立创EDA、Altium Designer、MATLAB/Simulink、CCS、STM32CubeIDE、Ansys Maxwell等工程软件。在[知乎](https://www.zhihu.com/question/494947440/answer/2028242293434401520)发布电赛经验帖获19赞同、81收藏。
 
 A data-driven personal website
 ======
